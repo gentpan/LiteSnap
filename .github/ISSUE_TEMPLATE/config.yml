@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 官方网站与安装指南 / Official website and installation
+    url: https://litesnap.app/#download
+    about: 获取开发版与安装说明 / Download LiteSnap and view installation instructions
+  - name: 隐私说明 / Privacy information
+    url: https://litesnap.app/privacy.html
+    about: 了解截图与本地数据如何处理 / Learn how screenshots and local data are handled
