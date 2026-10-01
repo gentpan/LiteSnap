@@ -6,7 +6,7 @@ LiteSnap 是一款轻量 Chrome 网页截图扩展，支持正文长截图、整
 
 [官方网站](https://litesnap.app/) · [下载与安装](https://litesnap.app/#download) · [隐私说明](https://litesnap.app/privacy.html) · [反馈问题](https://github.com/gentpan/LiteSnap/issues/new/choose)
 
-本仓库用于介绍 LiteSnap、收集问题反馈与功能建议。程序源码未公开；扩展、官网和图床/CDN 服务的源码均不包含在此仓库中。
+遇到问题或有新的想法？欢迎[提交问题反馈或功能建议](https://github.com/gentpan/LiteSnap/issues/new/choose)，帮助 LiteSnap 变得更好用。
 
 ## 主要功能
 
@@ -54,4 +54,4 @@ LiteSnap 是一款轻量 Chrome 网页截图扩展，支持正文长截图、整
 
 LiteSnap is a lightweight Chrome extension for full-page and article screenshots, annotations, redaction, and PNG / JPEG / WebP / PDF export. Version 0.1.7 processes screenshots locally without an account or upload feature. Chrome 116+ is currently supported.
 
-This public repository contains product documentation and serves as the issue tracker. Application, website, and image-hosting/CDN source code are not published here. Visit the [official website](https://litesnap.app/) to download LiteSnap, or [open an issue](https://github.com/gentpan/LiteSnap/issues/new/choose) for bugs and feature requests.
+Visit the [official website](https://litesnap.app/) to download LiteSnap and view the installation guide. Have a question, found a bug, or have an idea for a new feature? [Open an issue](https://github.com/gentpan/LiteSnap/issues/new/choose) to share your feedback.
